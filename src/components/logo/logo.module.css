@@ -1,5 +1,6 @@
 .containerMain {
     width: 150px;
+    height: 200px;
 }
 
 .logoContainer {
@@ -27,6 +28,7 @@
     height: 16px;
     right: 0px;
 }
+
 .logoName {
 font-size: 20px;
 font-weight: 700;
