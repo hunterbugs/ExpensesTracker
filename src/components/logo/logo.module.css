@@ -1,0 +1,37 @@
+.containerMain {
+    width: 150px;
+}
+
+.logoContainer {
+    display: flex; 
+    /* align-items: center;  */
+    position: relative;
+}
+.Logo1 {
+    position: absolute;
+    width: 14.03px;
+    height: 16px;
+    right: 0px;
+ 
+}
+.Logo2 {
+    position: absolute;
+    height: 16.02px;
+    z-index: 3;
+    right: 0px;
+}
+
+.Logo3 {
+    position: absolute;
+    width: 14.05px;
+    height: 16px;
+    right: 0px;
+}
+.logoName {
+font-size: 20px;
+font-weight: 700;
+line-height: 25.94px;
+letter-spacing: -0.02em;
+text-align: left;
+color:  #FAFAFA;
+}
