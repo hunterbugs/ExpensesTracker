@@ -1,20 +1,19 @@
-import s from './logo.module.css';
-import logo1vector from 'assets/png/Logo1Vector1x.png';
-import logo2vector from 'assets/png/Logo2Vector1x.png';
-import logo3vector from 'assets/png/Logo3Vector1x.png';
 
-const logo = () => {
+
+import s from './logo.module.css';
+import logoIconDesktop from 'assets/png/logoIcon2x.png';
+import logoIconTab from 'assets/png/logoIcon1x.png';
+
+
+const Logo = () => {
   return (
     <div className={s.containerMain}>
-        <div className={s.logoContainer}>
-        <img src={logo1vector} alt="logo" className={s.logo1} />
-        <img src={logo2vector} alt="logo" className={s.logo2} />
-        <img src={logo3vector} alt="logo" className={s.logo3} />
-        </div>
-        <div><a className={s.logoName}>EXPENSES</a></div>
-        
+       <div className={s.logo}>
+        <img src={logoIconDesktop} alt="logo" className={s.logoIcon} />
+       </div>
+      <div className={s.logo}><span className={s.logoName}>EXPENSES TRACKER</span></div>
     </div>
-  )
-}
+  );
+};
 
-export default logo
+export default Logo;
