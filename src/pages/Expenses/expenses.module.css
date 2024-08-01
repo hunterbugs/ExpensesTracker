@@ -1,0 +1,866 @@
+.home-1 .arrow-15 {
+    transform: rotate(-53.241deg);
+    width: 18px;
+    height: 0px;
+  }
+  .home-1 .arrow-14 {
+    transform: rotate(128.259deg);
+    width: 17.4px;
+    height: 0px;
+  }
+  .home-1 .block {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 40px 40px 122px 40px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .rectangle-1 {
+    border-radius: 30px;
+    background: #171719;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 630px;
+    height: 302px;
+  }
+  .home-1 .ellipse-1 {
+    position: absolute;
+    left: 40px;
+    top: 99px;
+    width: 292px;
+    height: 285px;
+  }
+  .home-1 .ellipse-30 {
+    position: absolute;
+    left: 40px;
+    top: 99px;
+    width: 292px;
+    height: 285px;
+  }
+  .home-1 .ellipse-28 {
+    position: absolute;
+    left: 40px;
+    top: 99px;
+    width: 292px;
+    height: 285px;
+  }
+  .home-1 .ellipse-29 {
+    border-radius: 10px;
+    transform: rotate(-27.995deg);
+    position: absolute;
+    left: 118.7px;
+    top: 51px;
+    width: 137.4px;
+    height: 112.2px;
+  }
+  .home-1 .container {
+    position: relative;
+    margin-right: 278.3px;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FAFAFA;
+  }
+  .home-1 .expenses-categories {
+    position: relative;
+    margin-bottom: 37px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .list {
+    margin: 0 29.6px 1px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 191px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .hobby {
+    margin: 0 3px 15px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 191px;
+    box-sizing: border-box;
+  }
+  .home-1 .block-1 {
+    margin-top: 1px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .ellipse-25 {
+    border-radius: 6px;
+    background: #0EF387;
+    margin: 3.5px 8px 3.5px 0;
+    width: 12px;
+    height: 12px;
+  }
+  .home-1 .hobby-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .container-1 {
+    margin-bottom: 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 16px;
+    color: #FAFAFA;
+  }
+  .home-1 .products {
+    margin: 0 2px 15px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 191px;
+    box-sizing: border-box;
+  }
+  .home-1 .block-2 {
+    margin-top: 1px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .ellipse-251 {
+    border-radius: 6px;
+    background: #0EBB69;
+    margin: 3.5px 8px 3.5px 0;
+    width: 12px;
+    height: 12px;
+  }
+  .home-1 .products-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .container-2 {
+    margin-bottom: 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 16px;
+    color: #FAFAFA;
+  }
+  .home-1 .cinema {
+    margin: 0 3px 15px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 191px;
+    box-sizing: border-box;
+  }
+  .home-1 .block-3 {
+    margin-top: 1px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .ellipse-252 {
+    border-radius: 6px;
+    background: #FAFAFA;
+    margin: 3.5px 8px 3.5px 0;
+    width: 12px;
+    height: 12px;
+  }
+  .home-1 .cinema-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .container-3 {
+    margin-bottom: 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 16px;
+    color: #FAFAFA;
+  }
+  .home-1 .health {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 191px;
+    box-sizing: border-box;
+  }
+  .home-1 .block-4 {
+    margin-top: 1px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .ellipse-253 {
+    border-radius: 6px;
+    background: rgba(250, 250, 250, 0.2);
+    margin: 3.5px 8px 3.5px 0;
+    width: 12px;
+    height: 12px;
+  }
+  .home-1 .health-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .container-4 {
+    margin-bottom: 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 16px;
+    color: #FAFAFA;
+  }
+  .home-1 .rectangle-5816 {
+    border-radius: 12px;
+    background: #444446;
+    width: 6px;
+    height: 64px;
+  }
+  .home-1 .container {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home {
+    background: #0C0D0D;
+    display: flex;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .home-1 .expense-log {
+    margin-bottom: 14px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 38px;
+    letter-spacing: -0.8px;
+    color: #FAFAFA;
+  }
+  .home-1 .block-5 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .date {
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 242px;
+    box-sizing: border-box;
+  }
+  .home-1 .date-1 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .input {
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    position: relative;
+    padding: 11px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .mmddyyyy {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .time {
+    display: flex;
+    flex-direction: column;
+    width: 224px;
+    box-sizing: border-box;
+  }
+  .home-1 .time-1 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .input-1 {
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    position: relative;
+    padding: 11px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .container-5 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .category {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .category-1 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .input-2 {
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    padding: 11px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .different {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .sum {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .sum-1 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .input-3 {
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    position: relative;
+    padding: 11px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .enter-the-sum {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .uah {
+    position: absolute;
+    right: 24px;
+    bottom: 12px;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .comment {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .comment-1 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .input-4 {
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    padding: 11px 17px 60px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .enter-the-text {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .capture-and-organize-every-penny-spent-with-ease-aclear-view-of-your-financial-habits-at-your-fingertips {
+    margin: 0 2.5px 59px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .user {
+    border-radius: 30px;
+    background: #171719;
+    display: flex;
+    flex-direction: row;
+    padding: 6px 21px 6px 16px;
+    box-sizing: border-box;
+  }
+  .home-1 .image {
+    border-radius: 40px;
+    background: var(--avatar-user-square-ethan-valdezneutral-background, url('assets/images/Image2.png') 50% / cover no-repeat, linear-gradient(#E0E0E0, #E0E0E0));
+    margin-right: 8px;
+    width: 44px;
+    height: 44px;
+  }
+  .home-1 .alex-rybachok {
+    margin: 12.5px 29.7px 12.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .home-1 .logo {
+    margin: 14px 0 19px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .icon {
+    margin: 5px 8px 2px 0;
+    display: flex;
+    width: 27px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  .home-1 .group {
+    width: 27px;
+    height: 16px;
+  }
+  .home-1 .expense-tracker {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: -0.4px;
+    text-transform: uppercase;
+    color: #FAFAFA;
+  }
+  .home-1 .btn {
+    border-radius: 40px;
+    background: #0EF387;
+    display: flex;
+    align-self: flex-start;
+    padding: 14px 5.5px 14px 0;
+    width: 118px;
+    box-sizing: border-box;
+  }
+  .home-1 .add {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #0C0D0D;
+  }
+  .home-1 .menu {
+    margin: 6px 0 7px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .all-expense {
+    border-radius: 30px;
+    border: 1px solid rgba(250, 250, 250, 0.4);
+    margin-right: 16px;
+    padding: 11px 20px;
+    width: 125px;
+    box-sizing: border-box;
+  }
+  .home-1 .all-expense-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .all-income {
+    border-radius: 30px;
+    border: 1px solid rgba(250, 250, 250, 0.4);
+    display: flex;
+    padding: 11px 11.6px 11px 0;
+    width: 125px;
+    box-sizing: border-box;
+  }
+  .home-1 .all-income-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .block-6 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .total-income {
+    border-radius: 30px;
+    background: #171719;
+    position: relative;
+    margin-right: 24px;
+    display: flex;
+    flex-direction: row;
+    padding: 32px 0 35px 23px;
+    width: 303px;
+    box-sizing: border-box;
+  }
+  .home-1 .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .home-1 .total-income-1 {
+    margin: 0 9.8px 7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .container-6 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FAFAFA;
+  }
+  .home-1 .total-expense {
+    border-radius: 30px;
+    background: #171719;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 32px 0 35px 23px;
+    width: 303px;
+    box-sizing: border-box;
+  }
+  .home-1 .text-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .home-1 .total-expense-1 {
+    margin: 0 3.6px 7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .container-7 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FAFAFA;
+  }
+  .home-1 .chevron-down {
+    margin: 19.5px 0;
+    display: flex;
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  .home-1 .vector-3 {
+    width: 10px;
+    height: 5px;
+  }
+  .home-1 .calendar {
+    position: absolute;
+    right: 18px;
+    bottom: 14px;
+    width: 20px;
+    height: 20px;
+  }
+  .home-1 .clock {
+    position: absolute;
+    right: 18px;
+    bottom: 14px;
+    width: 20px;
+    height: 20px;
+  }
+  .home-1 .container-1 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .expense {
+    margin: 0.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .income {
+    margin: 0.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #FAFAFA;
+  }
+  .home-1 .radio-button {
+    border-radius: 12px;
+    margin-right: 10px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .home-1 .radio-button-1 {
+    border-radius: 10px;
+    margin-right: 10px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .home-1 .income-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .expense-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home-1 .block-7 {
+    margin: 0 2px 22px 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 210px;
+    box-sizing: border-box;
+  }
+  .home-1 .profile-settings {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .log-out {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(250, 250, 250, 0.5);
+  }
+  .home-1 .user-1 {
+    margin: 1.5px 12px 1.5px 0;
+    width: 16px;
+    height: 16px;
+  }
+  .home-1 .log-out-1 {
+    margin: 1.5px 12px 1.5px 0;
+    width: 16px;
+    height: 16px;
+  }
+  .home-1 .container-2 {
+    position: relative;
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    width: 217px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-3 {
+    border-radius: 13px;
+    background: #0EF387;
+    position: relative;
+    margin: 7px 22px 4px 0;
+    display: flex;
+    padding: 16px 16.7px 13.4px 15.6px;
+    width: 43px;
+    height: 43px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-4 {
+    border-radius: 30px;
+    background: #171719;
+    position: relative;
+    margin-bottom: 82px;
+    display: flex;
+    flex-direction: column;
+    padding: 42px 40px 40px 40px;
+    width: 566px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-5 {
+    border-radius: 12px;
+    background: #0C0D0D;
+    position: relative;
+    display: flex;
+    width: 6px;
+    height: 126px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-6 {
+    border-radius: 13px;
+    background: #0EF387;
+    position: relative;
+    margin: 7px 22px 4px 0;
+    display: flex;
+    padding: 14px 16.2px 14.6px 16px;
+    width: 43px;
+    height: 43px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-7 {
+    border-radius: 15px;
+    border: 1px solid rgba(250, 250, 250, 0.1);
+    background: #0C0D0D;
+    position: absolute;
+    top: 82px;
+    right: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 18px 0 18px 16px;
+    width: 217px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-8 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .home-1 .container-9 {
+    border-bottom: 1px solid rgba(250, 250, 250, 0.1);
+    position: relative;
+    margin-bottom: 59px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 18px 100px 17px 100px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-10 {
+    margin-right: 44px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .home-1 .container-11 {
+    margin: 0 100px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home-1 .circle {
+    border-radius: 5px;
+    background: var(--green, #4DC274);
+    width: 10px;
+    height: 10px;
+  }
+  .home-1 .container-12 {
+    border-radius: 10px;
+    border: 2px solid var(--green, #4DC274);
+    display: flex;
+    padding: 3px;
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  .home-1 .container-13 {
+    border-radius: 10px;
+    border: 2px solid rgba(250, 250, 250, 0.2);
+    width: 20px;
+    height: 20px;
+  }

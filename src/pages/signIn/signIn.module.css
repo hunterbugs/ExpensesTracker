@@ -1,0 +1,236 @@
+.sign-in .arrow-15 {
+    transform: rotate(-53.241deg);
+    width: 18px;
+    height: 0px;
+  }
+  .sign-in {
+    background: #0C0D0D;
+    padding: 32px 50px 0 50px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .sign-in .logo {
+    margin: 0 0 95px 161px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .sign-in .icon {
+    margin: 5px 8px 2px 0;
+    display: flex;
+    width: 27px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  .sign-in .group {
+    width: 27px;
+    height: 16px;
+  }
+  .sign-in .expense-tracker {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: -0.4px;
+    text-transform: uppercase;
+    color: #FAFAFA;
+  }
+  .sign-in .rectangle-1 {
+    border-radius: 20px;
+    background: url('assets/images/Rectangle2.jpeg');
+    position: absolute;
+    left: 121px;
+    bottom: 100px;
+    width: 611px;
+    height: 568px;
+  }
+  .sign-in .text {
+    margin: 0 29.1px 40px 29.1px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .sign-in .sign-in-1 {
+    margin-bottom: 19px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 56px;
+    letter-spacing: -1.1px;
+    color: #FAFAFA;
+  }
+  .sign-in .welcome-back-to-effortless-expense-tracking-your-financial-dashboard-awaits {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .sign-in .email {
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    margin-bottom: 24px;
+    padding: 11px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .sign-in .email-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .sign-in .password {
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    position: relative;
+    margin-bottom: 14px;
+    padding: 11px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .sign-in .password-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.4);
+  }
+  .sign-in .eye-off {
+    position: absolute;
+    right: 18px;
+    bottom: 14px;
+    width: 20px;
+    height: 20px;
+  }
+  .sign-in .btns {
+    margin-top: 118px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .sign-in .sign-in-2 {
+    border-radius: 40px;
+    background: #0EF387;
+    margin: 0 11px 20px 0;
+    display: flex;
+    padding: 14px 7.9px 14px 0;
+    width: 137px;
+    box-sizing: border-box;
+  }
+  .sign-in .sign-in-3 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    color: #0C0D0D;
+  }
+  .label {
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 12px;
+    text-decoration-line: underline;
+    line-height: 1.333;
+    color: #FAFAFA;
+  }
+  .label-sub14 {
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: rgba(250, 250, 250, 0.6);
+  }
+  .sign-in .label {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.5;
+    color: rgba(250, 250, 250, 0.6);
+  }
+  .sign-in .block {
+    border-radius: 20px;
+    background: #FAFAFA;
+    position: relative;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    padding: 32px 23px 35px 23px;
+    box-sizing: border-box;
+  }
+  .sign-in .text-1 {
+    margin-right: 42.1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .sign-in .your-balance {
+    margin: 0 10.1px 7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(17, 16, 28, 0.5);
+  }
+  .sign-in .container {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Int'l', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 24px;
+    color: #11101C;
+  }
+  .sign-in .container-1 {
+    overflow-wrap: break-word;
+    font-family: 'Suisse Intl', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 12px;
+    color: #02B15A;
+  }
+  .sign-in .container {
+    border-radius: 13px;
+    background: #0EF387;
+    position: relative;
+    margin: 7px 22px 4px 0;
+    display: flex;
+    padding: 14px 16.2px 14.6px 16px;
+    width: 43px;
+    height: 43px;
+    box-sizing: border-box;
+  }
+  .sign-in .container-1 {
+    border-radius: 13px;
+    background: rgba(2, 177, 90, 0.15);
+    position: relative;
+    margin: 30px 0 2px 0;
+    display: flex;
+    padding: 4px 15.5px 4px 8px;
+    box-sizing: border-box;
+  }
+  .sign-in .container-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 884px;
+    box-sizing: border-box;
+  }
+  .sign-in .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    box-sizing: border-box;
+  }
